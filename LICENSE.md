@@ -1,1 +1,1 @@
-"meine FHV-Lizenz"
+meine FHV-Lizenz
